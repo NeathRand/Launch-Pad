@@ -56,14 +56,14 @@ const default_config = {
         links: [
           {
             name: "d2l",
-            url: "https://uottawa.brightspace.com/d2l/home",
+            url: "https://dpcdsb.elearningontario.ca/d2l/home",
             icon: "brand-d2l",
             icon_color: "#a9b665",
             
           },
           {
-            name: "uozone",
-            url: "https://uozone2.uottawa.ca/?language=en",
+            name: "Student Dashboard",
+            url: "https://students.dpcdsb.org/",
             icon: "brand-uozone",
             icon_color: "#e78a4e",
           },
